@@ -1,8 +1,9 @@
 const router = require('express').Router();
 
-// router for saving activity data
-// route for getting acitivity data by duration
+// TODO: router for saving activity data
 
-// route getting data by milegae
+// TODO: route for getting acitivity data by duration
+
+// TODO: route getting data by mileage
 
 module.exports = router;
